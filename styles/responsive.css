@@ -1,0 +1,29 @@
+@media screen and (max-width: 576px) {
+    .what-i-do{
+
+    }
+    .resume-containt{
+        flex-direction: column;
+        padding: 0 20px;
+    }
+    .skills-contain{
+        flex-direction: column;
+    }
+    .contact{
+        flex-direction: column;
+    }
+    .about-info-container {
+        flex-direction: column;
+    }
+    .section-description{
+        width: 100%;
+    }
+    .about-info{
+        padding-bottom: 10px;
+    }
+    
+}
+@media screen and (min-width: 577px) and (max-width: 992px) {
+    
+}
+
